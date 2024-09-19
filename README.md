@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, you can call me lingy 👋
+
+I'm currently studying cybersecurity.
 
 <!--
 **Lingybingy/Lingybingy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
