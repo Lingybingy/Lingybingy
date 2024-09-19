@@ -1,4 +1,4 @@
-## Hi there, you can call me lingy 👋
+## Hi there, you can call me Lingy 👋
 
 I'm currently studying cybersecurity.
 
